@@ -1,0 +1,22 @@
+{
+  "name": "komi-assignment",
+  "version": "1.0.0",
+  "description": "Test assignment for Komi.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vaimaca/Komi-Assignment.git"
+  },
+  "author": "Claudio Di Giacomo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vaimaca/Komi-Assignment/issues"
+  },
+  "homepage": "https://github.com/Vaimaca/Komi-Assignment#readme",
+  "devDependencies": {
+    "cypress": "^12.6.0"
+  }
+}
