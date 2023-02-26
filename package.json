@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Vaimaca/Komi-Assignment#readme",
   "devDependencies": {
-    "cypress": "^12.6.0"
+    "cypress": "^12.6.0",
+    "cypress-iframe": "^1.0.1"
   }
 }
